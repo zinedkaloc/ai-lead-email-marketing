@@ -48,7 +48,7 @@ http://localhost:3000
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 
-- [Altogic](https://altogic.com/) - A backend-as-a-service platform to enab
+- [Altogic](https://altogic.com/) - A backend-as-a-service platform to enable developers to build and deploy AI-powered applications
 
 - [OpenAI](https://openai.com/) - An artificial intelligence company
 
